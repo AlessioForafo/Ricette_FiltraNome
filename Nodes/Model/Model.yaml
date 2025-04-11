@@ -1,0 +1,16 @@
+Name: Model
+Id: g=493203aa5d7a9a9f78f164c86d9cc609
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=75da7884bc3fba29cfe2595a5a644b6b
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable2
+  Id: g=5ba3cd90119ccdfbb6f0f7e5a9039936
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable3
+  Id: g=620305499927a0121f8f0402878084a2
+  Type: BaseDataVariableType
+  DataType: Int32
